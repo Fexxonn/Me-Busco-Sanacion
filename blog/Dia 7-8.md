@@ -87,9 +87,9 @@ Me levanté. Y revisé el apartamento y mis pensamientos fueron y en este moment
 
 Regresé a la habitación, me recosté de nuevo en la cama, y al mirar por la ventana el cielo. Me dije:  
 
-↱ Realmente es hora de Parar. No puedo buscar más culpables por mis malas y trágicas decisiones. Debo hacer un alto en mi camino. Y empezar a mirar las cosas desde otras perspectivas. Estoy desperdiciando mi vida. La oportunidad de estar alegre y disfrutar cada Dia ya llego. Es Hoy, no será mañana.  
+↱ Realmente es hora de Parar. No puedo buscar más culpables por mis malas y trágicas decisiones. Debo hacer un alto en mi camino. Y empezar a mirar las cosas desde otras perspectivas. Estoy desperdiciando mi vida. La oportunidad de estar alegre y disfrutar cada día ya llego. Es Hoy, no será mañana.  
 
-Es que el mañana no existe. No existe el Dia mañana. En el calendario solo existen los Dias: lunes, martes, miércoles, jueves, viernes, sábado y domingo. Mañana debe tener una fecha específica. Y para mí estaba para el martes 22 de marzo.  ¡Bendito Dia!  
+Es que el mañana no existe. No existe el día mañana. En el calendario solo existen los dias: lunes, martes, miércoles, jueves, viernes, sábado y domingo. Mañana debe tener una fecha específica. Y para mí estaba para el martes 22 de marzo.  ¡Bendito día!  
 
 Ya mis oraciones habían sido escuchadas. Oración sin actos, no es fe. Y yo siempre he creído que soy una mujer de fe, servidora de Dios. Pero ya era el momento de actuar como cristiana católica, mostrando el rostro de Cristo amoroso.   "Encontrarme" ya era una urgencia. Mirarme desde adentro, reconocer el gran ser que Dios creó. "Me busco" te ayudará a encontrarte y como yo me encontré.  
 
@@ -123,7 +123,7 @@ Las experiencias dolorosas que he desarrollado a lo largo de mi vida conforman m
 
 En una mañana en la que, al levantarme, bastaron dos palabras de mi hijo adolescente, para la historia de esta mujer que avanza en la vida, por gratitud y convencimiento que no todo se queda paralizado e inconcluso.  
 
-__El enojo por muchos Dias__ lleva a la depresión, un estado emocional constante y dañino. Que muchas veces me han Llevado a la angustia y a la enfermedad.  
+__El enojo por muchos dias__ lleva a la depresión, un estado emocional constante y dañino. Que muchas veces me han Llevado a la angustia y a la enfermedad.  
 
 Ya han pasado muchos años, Musanlib: - Aún no he cerrado las heridas emocionales. Le siguen doliendo e intenta enmascararlas con el maquillaje de la vida.  
 
@@ -135,7 +135,7 @@ Prepara tus conceptos
 Responde:  
 
 ⇀ ¡Qué es una emoción?  
-⇀ ¿Sabes reconocer tus emociones a Diario?  
+⇀ ¿Sabes reconocer tus emociones a diario?  
 ⇀ ¿Qué haces con esa emoción?  
 ⇀ ¿Tus decisiones en momentos de emoción han sido manejadas correctamente?  
 ⇀ ¿Te gustaría mejorar esos pensamientos, actos y actitudes en momentos de emoción?  
