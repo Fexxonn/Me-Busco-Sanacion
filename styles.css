@@ -291,11 +291,11 @@ footer {
 }
 @media (max-width: 320px) {
   .img-dia-3 {
-    width: 230px;
-    height: 140px;
+    width: 200px;
+    height: 110px;
     margin: 40px;
     position: relative;
-    left: -3pc;
+    left: -3.3pc;
   }
 }
 @media (min-width: 375px) {
