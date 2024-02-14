@@ -192,12 +192,12 @@ footer {
 }
 /* botones de los dias de itinerario*/
 .container-btn-dias {
-  min-width: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 10px;
   gap: 1pc;
+  width: 100%;
   
 }
 .column-btn-dias {
@@ -207,8 +207,7 @@ footer {
 }
 .btn-dias {
   background-color: #2b2b2b;
-  min-width: 80px;
-  max-width: 200px;
+  width: 100px;
   height: 50px;
   text-align: center;
   display: flex;
@@ -221,6 +220,18 @@ footer {
 .btn-dias a {
   color: #fff;
   text-decoration: none;
+}
+@media (max-width: 320px){
+  .btn-dias {
+    width: 80px;
+    height: 50px;    
+  }
+}
+@media (min-width: 720px){
+  .btn-dias {
+    width: 200px;
+    height: 50px;    
+  }
 }
 /* dias modificaciones de las paginas */
 /* dia 1 */
