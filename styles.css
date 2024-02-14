@@ -270,7 +270,7 @@ footer {
     left: -20px;
   }
 }
-@media (min-width: 375px) {
+@media (min-width: 425px) {
   .img-dia-1 {
     width: 220px;
     height: 350px;
