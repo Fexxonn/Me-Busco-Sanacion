@@ -210,8 +210,6 @@ footer {
 /* botones de los dias de itinerario*/
 .container-btn-dias {
   display: flex;
-  justify-content: center;
-  align-items: center;
   padding: 10px;
   gap: 1pc;
   width: 100%;
