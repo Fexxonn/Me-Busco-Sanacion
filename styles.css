@@ -306,15 +306,6 @@ footer {
     left: -4.3pc;
   }
 }
-@media (min-width: 768px) {
-  .img-dia-3 {
-    width: 500px;
-    height: 320px;
-    margin: 40px;
-    position: relative;
-    left: 10px;
-  }
-}
 /* Dia 14 */
 .list-style-14 {
   display: flex;
