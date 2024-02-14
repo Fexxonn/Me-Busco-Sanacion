@@ -222,3 +222,14 @@ footer {
   color: #fff;
   text-decoration: none;
 }
+/* dias modificaciones de las paginas */
+/* dia 1 */
+.img-dia-1 {
+  background-image: url(https://res.cloudinary.com/df6m9drbk/image/upload/me%20busco/img/vgwpkpeaiycm6uwlvnny.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 250px;
+  height: 400px;
+  margin: 40px;
+}
