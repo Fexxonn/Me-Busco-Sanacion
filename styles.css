@@ -291,8 +291,8 @@ footer {
 }
 @media (max-width: 320px) {
   .img-dia-3 {
-    width: 250px;
-    height: 160px;
+    width: 230px;
+    height: 140px;
     margin: 40px;
     position: relative;
     left: -3pc;
@@ -300,8 +300,8 @@ footer {
 }
 @media (min-width: 375px) {
   .img-dia-3 {
-    width: 380px;
-    height: 240px;
+    width: 350px;
+    height: 210px;
     position: relative;
     left: -4.3pc;
   }
