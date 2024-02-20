@@ -309,8 +309,7 @@ footer {
 /* Dia 14 */
 .list-style-14 {
   display: flex;
-  gap: 2pc;
   border: solid;
-  padding: 3pc;
   justify-content: center;
+  padding: 3pc;
 }
